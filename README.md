@@ -11,7 +11,7 @@ Aspiring **Data Analyst** who turns raw data into clear insights. I work with SQ
 
 | Project | Description | Tech |
 |---|---|---|
-| [Netflix EDA visual storytelling](https://github.com/baasirahmad46/YOUR-NETFLIX-REPO-NAME) | Analysis of Netflix content and trends | Python, Pandas |
+| [Netflix EDA visual storytelling](https://github.com/baasirahmad46/netflix-eda-visual-storytelling) | Analysis of Netflix content and trends | Python, Pandas |
 | [Business Query Pack v2](https://github.com/baasirahmad46/business-query-pack-v2) | 10 business questions answered with SQL on Northwind | T-SQL, SQL Server |
 | [Brain Tumor Segmentation](https://github.com/baasirahmad46/Brain_Tumor_Segmentation_using_UNET) | U-Net segmentation on BRISC 2025 | Python, Deep Learning |
 
